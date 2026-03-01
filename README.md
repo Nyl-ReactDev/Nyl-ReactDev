@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
-<img align="right" src="https://giphy.com/gifs/art-loop-runner-XyeHw1D6PNN3TRXFci" width="250" height="30"/>
+<img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/vaporwave-aesthetic.gif?raw=true" width="250" height="300"/>
 
 🎓 Studying Information Technology at Veritas College of Irosin <br><br>
 ⚡ Currently Learning Web Development & React Native <br><br>
@@ -57,7 +57,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,mysql,cpp,react,figma,sqlite,arduino,net" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,mysql,cpp,react,figma,sqlite,arduino" />
   </a>
 </p>
 <p align="center">
@@ -82,15 +82,15 @@
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2> 
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlou-rens&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=devlou-rens&theme=radical&hide_border=false"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlou-rens&theme=radical&layout=compact&count_private=true&v=7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nyl-ReactDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nyl-ReactDev&theme=blue-green&hide_border=false"/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyl-ReactDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
   <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlou-rens&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyl-ReactDev&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
