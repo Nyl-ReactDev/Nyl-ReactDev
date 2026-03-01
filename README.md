@@ -32,16 +32,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
-<img align="right" src="https://media1.tenor.com/m/VEqKprzw7yAAAAAC/pink-cyber.gif" width="250"/>
+<img align="right" src="https://giphy.com/gifs/art-loop-runner-XyeHw1D6PNN3TRXFci" width="250" height="30"/>
 
-🎓 Information Technology Student at Veritas College of Irosin <br><br>
+🎓 Studying Information Technology at Veritas College of Irosin <br><br>
 ⚡ Currently Learning Web Development & React Native <br><br>
-🎯 Balancing code, Anime, and student life <br><br>
-🌱 Exploring Full-Stack Development (Frontend + Backend) <br><br>
-🛠️ Familiar with HTML, CSS, Python, MySQL, SQlite <br><br>
+🎯 Balancing code, watching anime and student life <br><br>
+🌱 Learning Full-Stack Developer (Frontend + Backend) <br><br>
+🛠️ Familiar with HTML, CSS, JS, Python, MySQL, SQlite <br><br>
 🌐 Interested in Open Source, Tech Communities, and Freelancing <br><br>
-🎨 I also enjoy designing with Canva, Figma, and also I'm a Video Editor <br><br>
-🚀 Goal: To become a <em>Full-Stack Developer</em> and build impactful projects <br>
+🎨 I also enjoy designing with Canva, Figma, and also I'm a Technician <br><br>
+🚀 Goal: To become a <em>Full-Stack Developer</em>, build impactful projects and Become Millioner <br>
 <br>
 <br>
 
