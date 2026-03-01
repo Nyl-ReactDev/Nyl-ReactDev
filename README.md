@@ -57,7 +57,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,mysql,cpp,react,figma,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,mysql,cpp,react,figma,sqlite,arduino,net" />
   </a>
 </p>
 <p align="center">
