@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
 </p>
-<img align="right" src="https://github.com/godkingjay/godkingjay/blob/master/assets/vaporwave-aesthetic.gif?raw=true" width="250" height="300"/>
+<img align="right" src="https://media.tenor.com/WEKXHz5rm3wAAAAi/pixel-cityscape.gif" width="250" height="300"/>
 
 🎓 Studying Information Technology at Veritas College of Irosin <br><br>
 ⚡ Currently Learning Web Development & React Native <br><br>
