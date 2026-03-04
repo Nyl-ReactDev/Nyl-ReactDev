@@ -22,7 +22,6 @@
   <p align="center">
   <img align=center src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%" >
 </p
-  
 </h1>
 
 
@@ -61,40 +60,88 @@
 
 ▸🚀 Goal: To become a professional Full-Stack Developer, build impactful projects,<br>and continuously grow as a programmer. <br>
 <br>
-<br>
-
-  <p align="center">
   <img align=center src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%" >
-</p
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;"> Tech Stack </h2>
-</div>
+  
+<h2 align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%"><br>
+  <img align="left" src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="50px" />
+   <img align="right" src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" />
+      Tech Stack
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
+</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,mysql,cpp,react,figma,sqlite,arduino" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p>
-<div align="center">
-  <h2>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuaXZzandsM2xwZHV2bTg4anE1Z2Nnbnpqdm8ycmhiaHEzcmgzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IMDUAPmghzu2bxNY2K/giphy.gif" width="30">
-    Actively Learning
+<div align="left">
+<h2>
+ <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  LANGUAGES
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
   </h2>
 </div>
+  
 <p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,cpp,react" />
+  </a>
+</p>
+<h2></h2>
+
+<h2 align="left">
+ <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  DATE BASE
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  </h2>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
+</p>
+<h2></h2>
+
+
+
+<h2 align="left">
+ <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  DESIGN
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  </h2>
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
+<h2></h2>
+
+<h2 align="left">
+ <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  OTHERS
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  </h2>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
 </p>
+
+  
+<p align="center">
+   <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
+   <img align=right src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="60px"/>
+  <img align=left src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="60px"/>
+</p>
+
 <div align="center">
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsNzk5OW1ucGxzaDd5aWwxdXlobzd1MTJ5bmtoeGl1MG5wcWFmZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30">GitHub Stats</h2> 
 </div>
@@ -104,51 +151,80 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyl-ReactDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
   <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyl-ReactDev&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p>
-<h2 align="center">🏆 GitHub Trophies</h2>
+
+
+<h2 align="center">
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-right: 15px;" />
+  🏆 GitHub Trophies
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-left: 15px;" />
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
+</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devlou-rens&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
+<br>
+<h2></h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p>
-<h2 align="center">🔝 Top Contributed Repo</h2>
+
+
+<h2 align="center">
+ <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-right: 15px;" />
+  🔝 Top Contributed Repo
+    <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-left: 15px;" />
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
+  </h2>
+  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Nyl-ReactDev&limit=5&theme=blue-green&combine_all_yearly_contributions=true"/>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p>
+<br>
+<h2></h2>
+
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="50" height="50">Connect With Me</h2> 
+<h2>
+   <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzMW14b3UzNGtxNXdpNzZmYTRwejZkMnpwMjRpa3RlbmIxMDQwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rmjq16i0UjxDHwZ0bg/giphy.gif" width="50" height="50">Connect With Me
+   <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-left: 15px;" />
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
+</h2> 
+
 </div>
+
+
 <p align="center">
-  <a href="https://www.facebook.com/nylni"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/_leeeuuu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:nylnierleutan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/nylni">
+    <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_leeeuuu">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nylnierleutan@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55" />
+  </a>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p>
-</p>
+
+<h2></h2>
+<br>
+
 <h2 align="center">
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-right: 15px;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpwcWduMGljMjkzOWpxMTRpa3F6NzIzbGkzNndoMWpxc3hzc3F2ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="50">
-  Buy me a Coffee</h2>
+  Buy me a Coffee
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" style="vertical-align: middle; margin-left: 15px;" />
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
+</h2>
 <p align="center">
   <a href="https://paypal.me/lourensgacias00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
