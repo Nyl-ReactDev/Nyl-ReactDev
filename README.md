@@ -1,60 +1,77 @@
 
 <p align="center">    
-  <img  src="https://github.com/Nyl-ReactDev/Nyl-ReactDev/blob/main/Nylnier%20Leu%20Tan%20(2).gif" height="200" width="100%"/>  
+  <img  src="https://github.com/Nyl-ReactDev/Nyl-ReactDev/blob/main/Nylnier%20Leu%20Tan%20(3).gif" height="200" width="100%"/>  
 </p>                        
                  
                                               
 <p align="center">        
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=00FFFF&width=435&lines=Hello+World&#33+I'm+Nyl" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=00FFFF&width=900&lines=Hello+Everyone&#33+I'm+Nyl+and+Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p> 
      
  
-<p align="center">
-  <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%" height="30">
-</p>
+
 
 <h1 align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3AycGN2cHd2dXI4MjlhajM5emp3bjJsdXk4N2E3dmZhb2ZpaHN1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" alt="Coding GIF" />
+<p align="center">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
+</p>
+<img align=right src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="60px"/>
   Future Web Developer | Learning, Coding, Creating
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3AycGN2cHd2dXI4MjlhajM5emp3bjJsdXk4N2E3dmZhb2ZpaHN1bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="60" alt="Coding GIF" />
+
+<img align=left src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="60px"/>
+  <p align="center">
+  <img align=center src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%" >
+</p
+  
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nyl-ReacDev&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p> 
-<div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtmcjhpY3g5eWV2MWt3Y2U1Y2tvNDJqd3ozYWNubmlhbml4MTB5bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="30">ABOUT ME</h2> 
-</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmgwc2Fyd2YzNzV2M3Z0azVuZWdkNmVwcTA1M2J5aGc2bXozem45ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3lZEgnvJqPkiejNkkf/giphy.gif" width="60"><br>
+  <img src="https://komarev.com/ghpvc/?username=Nyl-ReacDev&label=Profile%20views&color=blue&style=for-the-badge">
 </p>
-<img align="right" src="https://media.tenor.com/WEKXHz5rm3wAAAAi/pixel-cityscape.gif" width="250" height="300"/>
 
-🎓 Studying Information Technology at Veritas College of Irosin <br><br>
-⚡ Currently Learning Web Development & React Native <br><br>
-🎯 Balancing code, watching anime and student life <br><br>
-🌱 Learning Full-Stack Developer (Frontend + Backend) <br><br>
-🛠️ Familiar with HTML, CSS, JS, Python, MySQL, SQlite <br><br>
-🌐 Interested in Open Source, Tech Communities, and Freelancing <br><br>
-🎨 I also enjoy designing with Canva, Figma, and also I'm a Technician <br><br>
-🚀 Goal: To become a <em>Full-Stack Developer</em>, build impactful projects and Become Millioner <br>
+
+<h2 align="left">
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px" />
+  ABOUT ME
+  <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
+       width="40px"/>
+</h2>
+
+
+<img align="right" src="https://media.tenor.com/WEKXHz5rm3wAAAAi/pixel-cityscape.gif" width="40%" height="600"/>
+
+▸ 🧑‍💻I'm Nyl, an information technology student at Veritas College of Irosin. <br><br>
+
+▸⚡ Currently Learning Web Development & React Native. <br><br>
+
+▸🎯 A hardworking and dedicated student who always strives to improve <br>and surpass personal limits. <br><br>
+
+▸🌱 Aspiring Full-Stack Developer (Frontend + Backend). <br><br>
+
+▸🛠️ Familiar with HTML, CSS, JS, Python, MySQL, SQlite. <br><br>
+
+▸🌐 Interested in Open Source, Tech Communities, and Freelancing. <br><br>
+
+▸🎨 I also enjoy designing with Canva and Figma. <br><br>
+
+▸🕐Hobbies include watching anime, playing mobile games, staying active in sports,<br>and recharging through rest.<br><br>
+
+▸🚀 Goal: To become a professional Full-Stack Developer, build impactful projects,<br>and continuously grow as a programmer. <br>
 <br>
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxaHFmdm42Z201czEzNXFweWJnNDVjOGRoYWxza2pjdDZrMmh6MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tm6WScu6gjrYHxVruO/giphy.gif" width="100%" height="30">
-</p>
+  <p align="center">
+  <img align=center src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%" >
+</p
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;">
-    Tech Stack
-  </h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpaGozaGI2YjF2b3oyOGNncHJnOW92bTd3Mzlicjh0ZGhvaXQwZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30" style="vertical-align: middle; margin-right: 8px;"> Tech Stack </h2>
 </div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,html,css,mysql,cpp,react,figma,sqlite,arduino" />
