@@ -31,13 +31,13 @@
 </p>
 
 
-<h2 align="left">
+<h1 align="left">
   <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
        width="40px" />
   ABOUT ME
   <img src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
        width="40px"/>
-</h2>
+</h1>
 
 
 <img align="right" src="https://media.tenor.com/WEKXHz5rm3wAAAAi/pixel-cityscape.gif" width="40%" height="600"/>
@@ -63,14 +63,14 @@
   <img align=center src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%" >
 
   
-<h2 align="center">
+<h1 align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%"><br>
   <img align="left" src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" 
        width="50px" />
    <img align="right" src="https://media.tenor.com/wmLQCrXw7rgAAAAi/water-energy.gif" width="50px" />
       Tech Stack
   <img src="https://media.tenor.com/zhIZszouG8QAAAAj/line-divider.gif" width="100%">
-</h2>
+</h1>
 
 <div align="left">
 <h2>
@@ -227,4 +227,3 @@
 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
